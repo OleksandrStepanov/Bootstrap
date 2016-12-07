@@ -1,1 +1,1 @@
-https://oleksandrstepanov.github.io/Bootstrap/
+https://github.com/OleksandrStepanov/Bootstrap/tree/gh-pages/brightw

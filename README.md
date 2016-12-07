@@ -1,1 +1,1 @@
-https://github.com/OleksandrStepanov/Bootstrap
+https://github.com/OleksandrStepanov/Bootstrap/

@@ -1,1 +1,1 @@
-Bootstrap/brightw/
+Bootstrap
